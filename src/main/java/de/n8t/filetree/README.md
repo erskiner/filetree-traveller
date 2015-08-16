@@ -24,4 +24,4 @@ I had to write my own classes based on the regular java.nio.FileIterator.
 2. You can then simply do a `FileTree.travelOn(Directons directions)` to obtain a lazy bound stream object 
 (similiar to `Files.walk(Path p)`). On this you can do all the stream magic possible with java8.
 
-For a Example of the usagee see de.uniek.CountNodesExample
+For a Example of the usagee see de.n8t.CountNodesExample
